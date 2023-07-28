@@ -2,7 +2,7 @@
 Combo Battle is a Fighting Comboing Game in Scratch
 
 ## Controls:
-WASD = Movement Attack
+WASD = Movement
  
 O = Special Attack
  
